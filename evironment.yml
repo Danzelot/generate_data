@@ -1,0 +1,7 @@
+- flit
+- black
+- pylint
+- click
+- pandas
+- numpy
+- python=3.14
