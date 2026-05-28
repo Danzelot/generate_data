@@ -8,6 +8,11 @@ authors = [{name = "Hans Albertsen", email = "hans@albertsen.no"}]
 license = "MIT"
 license-files = ["LICENSE"]
 dynamic = ["version", "description"]
+dependencies = [
+    "click",
+    "numpy",
+    "pandas",
+]
 
 [project.urls]
 Home = "https://github.com/Danzelot/generate_data"
